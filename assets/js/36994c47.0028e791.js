@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkingly_backend_doc=self.webpackChunkkingly_backend_doc||[]).push([[9858],{45516:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

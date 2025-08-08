@@ -32,16 +32,16 @@ const config = {
     // !!! 多語系建構時會影響這個網址判斷， 需要調整
 
     url: isVercel
-        ? "https://kingly-backend-doc.vercel.app"
+        ? "https://kingly-backend-doc.vercel.app/"
         : "https://kingly_backend_doc.github.io",
     baseUrl: isVercel ? "/" : "/kingly_backend_doc/",
 
-    organizationName: "mestochang",
+    organizationName: "kingly",
     projectName: "kingly_backend_doc",
     // 設定 github page 相關 end
 
     // 'ignore' 允許建構失敗仍繼續，或者 'log' 來記錄錯誤但不阻止構建, throw 來拋出錯誤
-    onBrokenLinks: "log",
+    onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
 
     // Even if you don't use internationalization, you can use this field to set

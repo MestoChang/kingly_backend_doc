@@ -32,12 +32,12 @@ const config = {
     // !!! 多語系建構時會影響這個網址判斷， 需要調整
 
     url: isVercel
-        ? "https://kingly-beauty-wiki-backend-doc.vercel.app"
-        : "https://kingly_beauty_wiki_backend_doc.github.io",
-    baseUrl: isVercel ? "/" : "/kingly_beauty_wiki_backend_doc/",
+        ? "https://kingly-backend-doc.vercel.app"
+        : "https://kingly_backend_doc.github.io",
+    baseUrl: isVercel ? "/" : "/kingly_backend_doc/",
 
     organizationName: "mestochang",
-    projectName: "kingly_beauty_wiki_backend_doc",
+    projectName: "kingly_backend_doc",
     // 設定 github page 相關 end
 
     // 'ignore' 允許建構失敗仍繼續，或者 'log' 來記錄錯誤但不阻止構建, throw 來拋出錯誤
@@ -194,28 +194,23 @@ const config = {
                         title: "相關文件連結",
                         items: [
                             {
-                                label: "美容百科前端網站說明",
-                                to: "https://kingly-beauty-wiki-frontend-doc.vercel.app/",
+                                label: "前端說明文件-Vercel",
+                                to: "https://kingly-frontend-doc.vercel.app/",
                             },
                             {
-                                label: "後台管理系統教學",
-                                to: "https://kingly-beauty-wiki-backend-doc.vercel.app/",
+                                label: "前端說明文件-GitHub",
+                                to: "https://ben0588.github.io/kingly_frontend_doc/",
+                            },
+                            {
+                                label: "後台管理系統教學-Vercel",
+                                to: "https://kingly-backend-doc.vercel.app/",
+                            },
+                            {
+                                label: "後台管理系統教學-Vercel",
+                                to: "https://kingly-backend-doc.vercel.app/",
                             },
                         ],
                     },
-                    // {
-                    //     title: "Links",
-                    //     items: [
-                    //         {
-                    //             label: "backend-docs",
-                    //             to: "https://mestochang.github.io/kingly_beauty_wiki_backend_doc/",
-                    //         },
-                    //         {
-                    //             label: "frontend-docs",
-                    //             to: "https://ben0588.github.io/kingly_beauty_wiki_frontend_doc/",
-                    //         },
-                    //     ],
-                    // },
                 ],
                 copyright: `Copyright © ${new Date().getFullYear()}. 王道機器人股份有限公司`,
             },

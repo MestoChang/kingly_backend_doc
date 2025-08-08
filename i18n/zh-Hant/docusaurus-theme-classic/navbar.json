@@ -18,5 +18,17 @@
   "item.label.美容百科": {
     "message": "美容百科",
     "description": "Navbar item with label 美容百科"
+  },
+  "item.label.平台共用功能": {
+    "message": "平台共用功能",
+    "description": "Navbar item with label 平台共用功能"
+  },
+  "item.label.美容平台": {
+    "message": "美容平台",
+    "description": "Navbar item with label 美容平台"
+  },
+  "item.label.運動平台": {
+    "message": "運動平台",
+    "description": "Navbar item with label 運動平台"
   }
 }

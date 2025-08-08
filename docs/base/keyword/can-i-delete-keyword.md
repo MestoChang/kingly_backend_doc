@@ -16,4 +16,4 @@ sidebar_position: 1.3
 
 2. 個別點選進文章及圖片內，調整關鍵字設定
 
-    > 參考[如何修改文章內容](../content/how-to-edit-article.md)，[如何修改媒體內容](../media/)
+    > 參考[如何修改文章內容](../content/how-to-edit-article.md)，[如何修改媒體內容](../media/edit-media.md)

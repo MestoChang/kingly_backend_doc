@@ -16,4 +16,4 @@ sidebar_position: 1.3
 
 2. 个别点选进文章及图片内，调整关键字设定
 
-> 参考[如何修改文章内容](../content/how-to-edit-article.md)，[如何修改媒体内容](../media/)
+> 参考[如何修改文章内容](../content/how-to-edit-article.md)，[如何修改媒体内容](../media/edit-media.md)

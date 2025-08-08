@@ -13,7 +13,7 @@
   },
   "link.item.label.後台管理系統入口": {
     "message": "後台管理系統入口",
-    "description": "The label of footer link with label=後台管理系統入口 linking to https://wiki.kinglyrobot.com/root"
+    "description": "The label of footer link with label=後台管理系統入口 linking to https://wiki.kinglyrobot.com/"
   },
   "link.item.label.美容百科網站": {
     "message": "美容百科網站",
@@ -42,5 +42,17 @@
   "copyright": {
     "message": "Copyright © 2024. 王道機器人股份有限公司",
     "description": "The footer copyright"
+  },
+  "link.item.label.前端說明文件-Vercel": {
+    "message": "前端說明文件-Vercel",
+    "description": "The label of footer link with label=前端說明文件-Vercel linking to https://kingly-frontend-doc.vercel.app/"
+  },
+  "link.item.label.前端說明文件-GitHub": {
+    "message": "前端說明文件-GitHub",
+    "description": "The label of footer link with label=前端說明文件-GitHub linking to https://ben0588.github.io/kingly_frontend_doc/"
+  },
+  "link.item.label.後台管理系統教學-Vercel": {
+    "message": "後台管理系統教學-Vercel",
+    "description": "The label of footer link with label=後台管理系統教學-Vercel linking to https://kingly-backend-doc.vercel.app/"
   }
 }

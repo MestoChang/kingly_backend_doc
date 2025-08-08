@@ -162,5 +162,173 @@
   "sidebar.beautySidebar.category.廣告管理.link.generated-index.description": {
     "message": "概覽頁面",
     "description": "The generated-index page description for category 廣告管理 in sidebar beautySidebar"
+  },
+  "sidebar.tutorialSidebar.category.平台共用功能": {
+    "message": "平台共用功能",
+    "description": "The label for category 平台共用功能 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.平台共用功能.link.generated-index.description": {
+    "message": "後台管理系統的共用功能",
+    "description": "The generated-index page description for category 平台共用功能 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.網站管理": {
+    "message": "網站管理",
+    "description": "The label for category 網站管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.網站管理.link.generated-index.description": {
+    "message": "前端網站及SEO相關設定",
+    "description": "The generated-index page description for category 網站管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.美容平台": {
+    "message": "美容平台",
+    "description": "The label for category 美容平台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.美容平台.link.generated-index.description": {
+    "message": "美容百科的後台相關設置",
+    "description": "The generated-index page description for category 美容平台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.運動平台": {
+    "message": "運動平台",
+    "description": "The label for category 運動平台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.運動平台.link.generated-index.description": {
+    "message": "運動百科及運動 APP 後台相關設置",
+    "description": "The generated-index page description for category 運動平台 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.健康目的管理": {
+    "message": "健康目的管理",
+    "description": "The label for category 健康目的管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.健康目的管理.link.generated-index.description": {
+    "message": "設定健康目的與課程關聯",
+    "description": "The generated-index page description for category 健康目的管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.健康問卷管理": {
+    "message": "健康問卷管理",
+    "description": "The label for category 健康問卷管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.健康問卷管理.link.generated-index.description": {
+    "message": "設定及管理健康問卷",
+    "description": "The generated-index page description for category 健康問卷管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.器材管理": {
+    "message": "器材管理",
+    "description": "The label for category 器材管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.器材管理.link.generated-index.description": {
+    "message": "運動相關器材",
+    "description": "The generated-index page description for category 器材管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.部位管理": {
+    "message": "部位管理",
+    "description": "The label for category 部位管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.部位管理.link.generated-index.description": {
+    "message": "身體部位列表",
+    "description": "The generated-index page description for category 部位管理 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.APP 運動課程": {
+    "message": "APP 運動課程",
+    "description": "The label for category APP 運動課程 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.APP 運動課程.link.generated-index.description": {
+    "message": "APP 內所有課程資料",
+    "description": "The generated-index page description for category APP 運動課程 in sidebar tutorialSidebar"
+  },
+  "sidebar.baseSidebar.category.網站管理": {
+    "message": "網站管理",
+    "description": "The label for category 網站管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.網站管理.link.generated-index.description": {
+    "message": "前端網站及SEO相關設定",
+    "description": "The generated-index page description for category 網站管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.會員管理": {
+    "message": "會員管理",
+    "description": "The label for category 會員管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.會員管理.link.generated-index.description": {
+    "message": "會員管理相關操作",
+    "description": "The generated-index page description for category 會員管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.主題內容管理": {
+    "message": "主題內容管理",
+    "description": "The label for category 主題內容管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.主題內容管理.link.generated-index.description": {
+    "message": "主題內容管理相關操作",
+    "description": "The generated-index page description for category 主題內容管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.媒體庫": {
+    "message": "媒體庫",
+    "description": "The label for category 媒體庫 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.媒體庫.link.generated-index.description": {
+    "message": "媒體庫相關操作",
+    "description": "The generated-index page description for category 媒體庫 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.留言管理": {
+    "message": "留言管理",
+    "description": "The label for category 留言管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.留言管理.link.generated-index.description": {
+    "message": "留言管理相關操作",
+    "description": "The generated-index page description for category 留言管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.關鍵字管理": {
+    "message": "關鍵字管理",
+    "description": "The label for category 關鍵字管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.關鍵字管理.link.generated-index.description": {
+    "message": "關鍵字管理相關操作",
+    "description": "The generated-index page description for category 關鍵字管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.廣告管理": {
+    "message": "廣告管理",
+    "description": "The label for category 廣告管理 in sidebar baseSidebar"
+  },
+  "sidebar.baseSidebar.category.廣告管理.link.generated-index.description": {
+    "message": "概覽頁面",
+    "description": "The generated-index page description for category 廣告管理 in sidebar baseSidebar"
+  },
+  "sidebar.sportSidebar.category.健康目的管理": {
+    "message": "健康目的管理",
+    "description": "The label for category 健康目的管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.健康目的管理.link.generated-index.description": {
+    "message": "設定健康目的與課程關聯",
+    "description": "The generated-index page description for category 健康目的管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.健康問卷管理": {
+    "message": "健康問卷管理",
+    "description": "The label for category 健康問卷管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.健康問卷管理.link.generated-index.description": {
+    "message": "設定及管理健康問卷",
+    "description": "The generated-index page description for category 健康問卷管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.器材管理": {
+    "message": "器材管理",
+    "description": "The label for category 器材管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.器材管理.link.generated-index.description": {
+    "message": "運動相關器材",
+    "description": "The generated-index page description for category 器材管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.部位管理": {
+    "message": "部位管理",
+    "description": "The label for category 部位管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.部位管理.link.generated-index.description": {
+    "message": "身體部位列表",
+    "description": "The generated-index page description for category 部位管理 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.APP 運動課程": {
+    "message": "APP 運動課程",
+    "description": "The label for category APP 運動課程 in sidebar sportSidebar"
+  },
+  "sidebar.sportSidebar.category.APP 運動課程.link.generated-index.description": {
+    "message": "APP 內所有課程資料",
+    "description": "The generated-index page description for category APP 運動課程 in sidebar sportSidebar"
   }
 }

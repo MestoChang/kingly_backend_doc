@@ -1,0 +1,8 @@
+{
+    "label": "平台共用功能",
+    "position": 2.1,
+    "link": {
+        "type": "generated-index",
+        "description": "後台管理系統的共用功能"
+    }
+}

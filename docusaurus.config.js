@@ -135,9 +135,21 @@ const config = {
                     },
                     {
                         type: "docSidebar",
+                        sidebarId: "baseSidebar",
+                        position: "left",
+                        label: "平台共用功能",
+                    },
+                    {
+                        type: "docSidebar",
                         sidebarId: "beautySidebar",
                         position: "left",
-                        label: "美容百科",
+                        label: "美容平台",
+                    },
+                    {
+                        type: "docSidebar",
+                        sidebarId: "sportSidebar",
+                        position: "left",
+                        label: "運動平台",
                     },
 
                     // { to: "/blog", label: "Blog", position: "left" },

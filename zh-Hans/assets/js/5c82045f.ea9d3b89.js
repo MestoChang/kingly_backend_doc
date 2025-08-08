@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkingly_backend_doc=self.webpackChunkkingly_backend_doc||[]).push([[9808],{99604:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/kingly_backend_doc/zh-Hans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

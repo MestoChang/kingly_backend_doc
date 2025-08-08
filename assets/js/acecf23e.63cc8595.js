@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkingly_backend_doc=self.webpackChunkkingly_backend_doc||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/kingly_backend_doc/blog","blogTitle":"Blog","authorsListPath":"/kingly_backend_doc/blog/authors"}')}}]);

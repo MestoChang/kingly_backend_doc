@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkingly_backend_doc=self.webpackChunkkingly_backend_doc||[]).push([[9502],{35172:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/kingly_beauty_wiki_backend_doc/zh-Hans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

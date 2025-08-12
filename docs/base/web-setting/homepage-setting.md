@@ -15,10 +15,12 @@ sidebar_position: 1.1
 ![basic-setting](img/basic-setting.png)
 
 1. 網站標題
-   對應前端網站頁面標籤上顯示的名稱
-   ![website name](img/website-name.png)
 
-2. 全域 Logo
+    對應前端網站頁面標籤上顯示的名稱
+    ![website name](img/website-name.png)
+
+2. 網站全域 Logo
+   ![logo](img/website-logo.png)
 
 3. 網站頁標
 
@@ -26,10 +28,22 @@ sidebar_position: 1.1
 
 5. 應用按鈕
 
+這個頁面任何變更（包含下方社群以及聯絡資訊），按應用才會保存且應用到前端網站。
+
 6. 切換功能 Tab
 
 7. 多語系的個別設定功能 (待開發)
 
-## 社群
+## Footer
 
-## 聯絡資訊
+對應前端網站設定
+![footer](img/footer.png)
+
+### 01.社群設定
+
+後台這裡設定
+![alt text](img/social-list.png)
+
+### 02.聯絡資訊
+
+![alt text](img/comtact.png)

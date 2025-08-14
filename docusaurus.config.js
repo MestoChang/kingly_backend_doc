@@ -32,7 +32,8 @@ const config = {
     // !!! 多語系建構時會影響這個網址判斷， 需要調整
 
     url: isVercel
-        ? "https://kingly-backend-doc.vercel.app/"
+        ? // ? "https://kingl-backend-doc-gyrm.vercel.app/"
+          "https://kingly-backend-doc.vercel.app/"
         : "https://kingly_backend_doc.github.io",
     baseUrl: isVercel ? "/" : "/kingly_backend_doc/",
 

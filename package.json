@@ -7,7 +7,7 @@
         "start": "docusaurus start -p 7001",
         "build": "docusaurus build",
         "swizzle": "docusaurus swizzle",
-        "deploy": "npm run build && npx gh-pages -d build",
+        "deploy": "npm run build && npx gh-pages -d build --add",
         "clear": "docusaurus clear",
         "serve": "docusaurus build && docusaurus serve -p 7011",
         "write-translations": "docusaurus write-translations",

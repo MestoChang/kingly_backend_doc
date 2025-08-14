@@ -14,36 +14,50 @@ sidebar_position: 1.1
 
 ![basic-setting](img/basic-setting.png)
 
-1. 網站標題
+#### 1. 網站標題：
 
     對應前端網站頁面標籤上顯示的名稱
     ![website name](img/website-name.png)
 
-2. 網站全域 Logo
-   ![logo](img/website-logo.png)
+#### 2. 網站全域 Logo
 
-3. 網站頁標
+    顯示在畫面左上角 Header 的 LOGO 圖片
+    ![logo](img/website-logo.png)
 
-4. 行動裝置圖標
+#### 3. 網站頁標
 
-5. 應用按鈕
+    對應前端網站頁面標籤上顯示的 icon
+    ![website icon](img/website-icon.png)
 
-這個頁面任何變更（包含下方社群以及聯絡資訊），按應用才會保存且應用到前端網站。
+#### 4. 行動裝置圖標
 
-6. 切換功能 Tab
+    > 參考行動裝置使用流程(待補充)。
 
-7. 多語系的個別設定功能 (待開發)
+#### 5. 應用按鈕
+
+    :::danger 應用到前端網站
+    這個頁面任何變更（包含下方社群以及聯絡資訊），按應用才會保存且應用到前端網站。
+    :::
+
+#### 6. 切換功能 Tab
+
+    點選後可以快速跳轉到此頁面其他功能區塊，修改後要按應用才會生效。
+
+#### 7. 多語系的個別設定功能 (待開發)
+
+    預計之後會需要按照語系設定個別的內容，但目前尚未開發此功能。
 
 ## Footer
 
-對應前端網站設定
+對應前端網站 Footer 的顯示內容
 ![footer](img/footer.png)
 
-### 01.社群設定
+#### 01.社群設定
 
-後台這裡設定
+後台這裡可以設定要顯示在前端的社群及連結
 ![alt text](img/social-list.png)
 
-### 02.聯絡資訊
+#### 02.聯絡資訊
 
+設定要顯示在前端的公司聯絡資訊
 ![alt text](img/comtact.png)

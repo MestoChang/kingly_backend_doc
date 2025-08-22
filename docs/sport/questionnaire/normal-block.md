@@ -1,6 +1,6 @@
 ---
 title: 編輯一般區塊
-sidebar_position: 1.4.2
+sidebar_position: 1.4
 ---
 
 # 編輯一般區塊

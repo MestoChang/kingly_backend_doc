@@ -1,6 +1,6 @@
 ---
 title: 編輯活動日常表現區塊
-sidebar_position: 1.4.1
+sidebar_position: 1.4
 ---
 
 # 活動日常表現區塊

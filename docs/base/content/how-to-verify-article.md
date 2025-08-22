@@ -24,7 +24,6 @@ sidebar_position: 3.4
    ![文章內容頁面](img/verify-article-02.png)
 
 5. 核可或者退回
-
     - 5-1. 核可：核可文章會跳出再確認的視窗。
       ![核可文章](img/comfrim-verify-article.png)
       :::note

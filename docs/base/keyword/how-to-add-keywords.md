@@ -13,7 +13,7 @@ sidebar_position: 1.1
 
     ![關鍵字列表](img/keyword-list-02.png)
 
-3. 出現填寫關鍵字欄位
+3. 出現填寫關鍵字欄位，請注意不可使用特殊符號(如 ! , @ , # , % , & , ? , \ , / , ' , " 等)
 
     ![新增關鍵字欄位](img/add-keyword.png)
 

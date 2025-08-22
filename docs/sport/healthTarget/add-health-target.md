@@ -23,3 +23,4 @@ sidebar_position: 1.1
     > 這邊涉及課程本身資料完整性，若不完整就無法設定，詳細狀態規範參考 >> [設定健康目的對應課程](set-recommend-course.md)
 
 5. 右上角點選 新增 即完成步驟
+   ![alt text](img/add-health-target-03.png)

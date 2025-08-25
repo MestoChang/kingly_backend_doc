@@ -52,8 +52,9 @@ sidebar_position: 1.2
   ![alt text](img/sort-section-02.png)
 
 - 點擊 保存 完成操作
-  ![alt text](img/sort-section-03.png)
+  ![alt text](img/sort-section-04.png)
 
 ### 重新整理功能的使用情況
 
 完成區塊設定後，問卷內容這個頁面問題並不會即時更新，這時候點擊重新整理可刷新問題列表。
+![alt text](img/sort-section-03.png)

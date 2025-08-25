@@ -28,6 +28,7 @@ sidebar_position: 1.4
       ![alt text](img/add-question-04.png)
 
 - 填寫內容後點選 新增問題
+  ![alt text](img/add-question-05.png)
 
 ### 編輯問題
 

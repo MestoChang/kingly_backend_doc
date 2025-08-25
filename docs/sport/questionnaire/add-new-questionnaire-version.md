@@ -17,8 +17,8 @@ sidebar_position: 1.2
 
     ![alt text](img/add-new-version.png)
 
-4.  點擊 問卷版本名稱，可進入問卷編輯頁面 > 只有無狀態的問卷可以編輯，其他狀態的葉面雖然可以進入編輯頁，但內容無法編輯。
+4.  點擊 問卷版本名稱，可進入問卷編輯頁面 > 只有無狀態的問卷可以編輯，其他狀態的頁面雖然可以進入編輯頁，但內容無法編輯。
     ![alt text](img/click-questionnaire.png)
 
 5.  問卷編輯頁面
-    ![alt text](img/edit-questionnaire-01.png)
+    ![alt text](img/edit-questionnaire.png)
